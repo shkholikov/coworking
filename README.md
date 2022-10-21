@@ -1,8 +1,8 @@
 
-# coworking
+# 🧠 CoWorking
+
+### Description 
 
 Static website using only HTML&CSS
 
-TRY IT 👉 https://shakhzodzhan.github.io/coworking/
-
-CoWorking🧠
+### TRY IT 👉 https://shkholikov.github.io/coworking/
